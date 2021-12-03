@@ -1,0 +1,20 @@
+DocumentId,Document,Score,Rank
+Doc 14,vaccine mile american council science health,0.1894850218858158,1
+Doc 19,vaccine approval leap science faith say venkaiah naidu hindu,0.17773369312870332,2
+Doc 13,  see like gagandeep kang india vaccine approval wire science,0.17442105375039296,3
+Doc 7,uk vaccine approach anti science spectator co uk,0.17018055767979465,4
+Doc 4,covid dangerous vaccine scientist doctor concerned individual codeblue,0.16013124864219583,5
+Doc 1,uk roll astrazeneca vaccine hail lead fight coronavirus reuters,0.15652941814161003,6
+Doc 11,covaxin science pride help india build trust vaccine business standard,0.14815872805092115,7
+Doc 16,gov sununu reaffirm cnn plan mandate covid vaccine wmur manchester,0.137354864364668,8
+Doc 12,hey covid vaccine sceptic healthcare expert answer worry question business insider india,0.13115682996154107,9
+Doc 8,vice president india chairman rajya sabha m venkaiah naidu hail emergency authorization covid vaccine india leap science benefit humanity large,0.12314774099523004,10
+Doc 5,vice president india chairman rajya sabha m venkaiah naidu hail emergency authorization covid vaccine yesterday india leap science benefit humanity,0.12314774099523003,11
+Doc 9,vice president m venkaiah naidu monday hail approval give anti coronavirus vaccine restricted emergency use india country leap science benefit humanity,0.12270139834537278,12
+Doc 6,day drug controller general india dcgi give nod emergency use approval indigenous vaccine covid sunday vic,0.11862794223684182,13
+Doc 10,put weight bharat biotech s covaxin facebook post mr naidu write india s indigenous vaccine certain unique feature base virus approach,0.10488009734143622,14
+Doc 2,britain begin vaccinate population monday covid shot develop oxford university astrazeneca tout position western country roll inoculation,0.0,0
+Doc 3,facebook post vice president naidu say indication aatmanirbhar bharat benefit indians humanity,0.0,0
+Doc 15,science education couldn t important endure covid pandemic opinion philadelphia inquirer,0.0,0
+Doc 17,expert insight sars cov serology testing setting vaccination selectscience,0.0,0
+Doc 18,india start world s big covid vaccination programme say pm modi thank scientist indian express,0.0,0

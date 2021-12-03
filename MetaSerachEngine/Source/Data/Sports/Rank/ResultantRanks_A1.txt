@@ -1,0 +1,37 @@
+Description,DateTime,Rank,DocumentId
+Chance to right-size after pandemic pause  Hindustan Times,2021-01-01 02:36:36,1,Doc 1
+Billionaire Jeff Bezos’s Xmas bonus for cricketers  The Australian,2021-01-01 02:37:00,2,Doc 2
+New Zealand skipper Sophie Devine takes diabetes in her stride  Hindustan Times,2021-01-01 02:56:58,3,Doc 3
+MS Dhoni to Suresh Raina: Indian cricketers who retired from international cricket in 2020  Times Now,2021-01-01 03:47:00,4,Doc 4
+REN vs ST BBL Dream11 Prediction Today: Fantasy cricket tips for Melbourne Renegades vs Sydney Thunder  Times Now,2021-01-01 05:25:57,5,Doc 5
+Australia's batsmen must grind to foil India's plans: Labuschagne  The Daily Star,2021-01-01 06:18:44,6,Doc 6
+"‘New year, New feels, New chances’: Cricket fraternity welcomes 2021  Hindustan Times",2021-01-01 06:19:29,7,Doc 7
+State of the Nation - Cricket will survive but not as we have come to love it  Yorkshire Post,2021-01-01 07:30:00,8,Doc 8
+"No retirement plan as of now, two World Cups to go: Chris Gayle  Times of India",2021-01-01 07:50:00,9,Doc 9
+"India vs Australia: ‘On the field, he is the bowling captain’, Pragyan Ojha names the player who’s leading...  Hindustan Times",2021-01-01 08:35:24,10,Doc 10
+Rashid Khan Remembers Late Father And Mother In Emotional Post  NDTV Sports,2021-01-01 08:35:27,11,Doc 11
+How planning his training sessions helped Ajinkya Rahane for the challenge in Australia  Times of India,2021-01-01 09:11:00,12,Doc 12
+"Anustup Majumdar to lead Bengal in Mushtaq Ali T20, Shami's younger brother gets call-up  Deccan Herald",2021-01-01 10:07:23,13,Doc 13
+India vs Australia: Rohit Sharma replaces Cheteshwar Pujara as vice-captain of Indian Test team  Times of India,2021-01-01 10:17:00,14,Doc 14
+India haven't won anything: Aakash Chopra questions MS Dhoni's inclusion in ICC's T20I Team of the Decade  Times Now,2021-01-01 10:25:00,15,Doc 15
+"FACTBOX-Cricket-South Africa v Sri Lanka, second test  Devdiscourse",2021-01-01 10:28:10,16,Doc 16
+"Racing against time, Babar Azam has lengthy net session ahead of second Test  Deccan Herald",2021-01-01 11:20:30,17,Doc 17
+Shikhar Dhawan's hilarious dance video with his pets leaves KL Rahul and Hardik Pandya in splits - Watch  Times Now,2021-01-01 11:42:48,18,Doc 18
+"Glenton Stuurman ruled out of Wanderers Test, released from Proteas squad  News24",2021-01-01 11:58:17,19,Doc 19
+Bumrah has mastered the art we Pakistanis used to have once: Shoaib Akhtar  Times of India,2021-01-01 12:05:00,20,Doc 20
+It wasn't LBW call but 'get lost' comment from Aussies that made me walk out in 1981: Sunil Gavaskar  Times of India,2021-01-01 12:33:00,21,Doc 21
+"England squad clears COVID-19 test, set to travel to Sri Lanka for Test series  Times of India",2021-01-01 12:47:00,22,Doc 22
+PCB Awards 2020: Babar Azam named Most Valuable Cricketer of the Year  Times of India,2021-01-01 13:11:00,23,Doc 23
+Mushtaq Ali T20: Karnataka state team gearing up in isolation  Times of India,2021-01-01 13:35:00,24,Doc 24
+HUR vs STA Dream11 prediction today: Fantasy cricket tips for Hobart Hurricanes vs Melbourne Stars  Times Now,2021-01-01 14:36:00,25,Doc 25
+NK vs OV T20 Dream11 prediction today: Fantasy cricket tips for Northern Knights vs Otago Volts  Times Now,2021-01-01 14:41:00,26,Doc 26
+Williamson: A nice guy who finished first  Deccan Herald,2021-01-01 14:45:02,27,Doc 27
+"South Africa to undergo major overhaul in domestic structure, to introduce two-division league system  Times of India",2021-01-01 15:16:00,28,Doc 28
+"T Natarajan Rises! From Playing Tennis Ball Cricket in Chinnappampatti to Making It Into Indian Test Squad,  LatestLY",2021-01-01 15:16:34,29,Doc 29
+"Garg named Uttar Pradesh captain; Bhuvneshwar, Raina in squad  Times of India",2021-01-01 16:05:00,30,Doc 30
+"Indian Cricket Team: Life in bio-bubble is never easy for the cricketers. Ever since the play has resumed post-Covid-19, the players have to undergo mandatory 14-days quarantine. The players go ...",2021-01-03 03:14:00,31,Doc 31
+"Zimbabwe's last international assignment was a six-match limited overs series in Pakistan in November 2020. The country has reportedly recorded 1,342 positive cases and 29 deaths in the space of one ...",2021-01-03 07:54:00,32,Doc 32
+Northern Knights will square off against Central Districts in the 10th match of the Super Smash 2020/21. The Super Smash 2020/21 action will continue in New Zealand as Northern Knights (NK) take on ...,2021-01-03 08:14:00,33,Doc 33
+"Sri Lanka Cricket employee tests COVID-19 positive 2nd Test, Day 1: Nortje, Elgar put South Africa on top against Sri Lanka PM Modi speaks to Sourav Ganguly, wishes him speedy recovery CSA's One ...",2021-01-03 08:15:00,34,Doc 34
+Zimbabwe Cricket has decided to suspend all cricketing activities in the country as the number of COVID-19 cases continues to rise.,2021-01-03 08:21:00,35,Doc 35
+"An employee of Sri Lanka Cricket has tested positive for COVID-19 and has been isolated with immediate effect, the sports body said on Sunday.The SLC also took steps to immediately isolate the direct ...",2021-01-03 08:22:48,36,Doc 36

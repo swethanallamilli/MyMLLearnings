@@ -1,0 +1,21 @@
+Description,DateTime,Rank,DocumentId
+"UK rolls out AstraZeneca vaccine, hails lead in fight against coronavirus  Reuters",2021-01-04 00:05:00,1,Doc 1
+"Britain began vaccinating its population on Monday with the Covid-19 shot developed by Oxford University and AstraZeneca, touting its position as the first Western country to roll out an inoculation ...",2021-01-04 00:36:00,2,Doc 2
+"In a Facebook post, Vice President Naidu said this is an indication of how ‘Aatmanirbhar Bharat’ can benefit not only Indians but humanity as a whole.",2021-01-04 01:09:00,3,Doc 3
+"Covid-19 Is Dangerous, Not Vaccines -- 20 Scientists, Doctors, And Concerned Individuals  CodeBlue",2021-01-04 02:06:38,4,Doc 4
+Vice President of India and Chairman of Rajya Sabha M. Venkaiah Naidu has hailed the emergency authorization of two Covid vaccines yesterday as India's leap of science that benefits the humanity at ...,2021-01-04 04:03:00,5,Doc 5
+A day after the Drugs Controller General of India DCGI gave its nod for the emergency use approval for two indigenous vaccines against COVID-19 on Sunday Vic ...,2021-01-04 04:47:00,6,Doc 6
+The UK's vaccine approach isn't 'anti-science'  Spectator.co.uk,2021-01-04 04:51:00,7,Doc 7
+The Vice President of India and Chairman of Rajya Sabha M. Venkaiah Naidu has hailed the emergency authorization of two Covid vaccines as India's leap of science that benefits humanity at large.,2021-01-04 05:31:00,8,Doc 8
+"Vice President M Venkaiah Naidu on Monday hailed the approval given to two anti-coronavirus vaccines for restricted emergency use in India as the country's ""leap of science"" that benefits the humanity ...",2021-01-04 05:36:00,9,Doc 9
+"Putting his weight behind Bharat Biotech’s Covaxin, in a Facebook post, Mr. Naidu wrote, “India’s indigenous vaccine has certain unique features based on the whole virus approach. This is a ...",2021-01-04 06:32:00,10,Doc 10
+"Covaxin: Science, not pride will help India build trust in this vaccine  Business Standard",2021-01-04 06:48:00,11,Doc 11
+Hey COVID vaccine sceptics ⁠— healthcare experts answer some of the worrying questions  Business Insider India,2021-01-04 07:18:25,12,Doc 12
+'Never Seen Anything Like it': Gagandeep Kang on India's Vaccine Approvals  The Wire Science,2021-01-04 10:22:00,13,Doc 13
+Vaccine's Last Mile  American Council on Science and Health,2021-01-04 12:00:00,14,Doc 14
+Science education couldn’t be more important as we endure the COVID-19 pandemic | Opinion  The Philadelphia Inquirer,2021-01-04 12:11:15,15,Doc 15
+Gov. Sununu reaffirms on CNN he has no plans to mandate COVID-19 vaccine  WMUR Manchester,2021-01-04 13:54:00,16,Doc 16
+Expert Insight: SARS-CoV-2 serology testing in the setting of vaccination  SelectScience,2021-01-04 13:55:20,17,Doc 17
+"India to start world’s biggest Covid-19 vaccination programme, says PM Modi; thanks scientists  The Indian Express",2021-01-04 14:14:27,18,Doc 18
+"Vaccine approval is a leap of science, not faith, says Venkaiah Naidu  The Hindu",2021-01-04 14:31:08,19,Doc 19
+"Coronavirus latest news: New lockdown from midnight in Scotland, Nicola Sturgeon announces - watch live  Telegraph.co.uk",2021-01-04 14:51:00,20,Doc 20

@@ -1,0 +1,36 @@
+DocumentId,Document,Score,Rank
+Doc 35,zimbabwe cricket decide suspend cricket activity country number covid case continue rise,0.33661822422497106,1
+Doc 16,factbox cricket south africa v sri lanka second test devdiscourse,0.21346921079512302,2
+Doc 8,state nation cricket survive come love yorkshire post,0.2009475162322299,3
+Doc 4,ms dhoni suresh raina indian cricketer retire international cricket time,0.1980072342026692,4
+Doc 29,t natarajan rise play tennis ball cricket chinnappampatti make indian test squad latestly,0.17002819777317996,5
+Doc 26,nk vs ov prediction today fantasy cricket tip northern knight vs otago volt time,0.1592085097804155,6
+Doc 25,hur vs sta prediction today fantasy cricket tip hobart hurricane vs melbourne star time,0.15777590999973967,7
+Doc 7,  new year new feel new chance cricket fraternity welcome hindustan times,0.15149277580161657,8
+Doc 5,ren vs st bbl prediction today fantasy cricket tip melbourne renegade vs sydney thunder time,0.14980876182779831,9
+Doc 31,indian cricket team life bio bubble easy cricketer play resume post covid player undergo mandatory day quarantine player,0.13115317416767774,10
+Doc 34,sri lanka cricket employee test covid positive test day nortje elgar south africa sri lanka pm modi speak sourav ganguly wish speedy recovery csa,0.11225098527767838,11
+Doc 1,chance right size pandemic pause hindustan times,0.0,0
+Doc 2,billionaire jeff bezos s xmas bonus cricketer australian,0.0,0
+Doc 3,new zealand skipper sophie devine take diabetes stride hindustan times,0.0,0
+Doc 6,australia batsman grind foil india plan labuschagne daily star,0.0,0
+Doc 9,retirement plan world cup chris gayle times india,0.0,0
+Doc 10,india vs australia field bowling captain pragyan ojha name player s lead hindustan times,0.0,0
+Doc 11,rashid khan remember late father mother emotional post ndtv sport,0.0,0
+Doc 12,plan training session help ajinkya rahane challenge australia times india,0.0,0
+Doc 13,anustup majumdar lead bengal mushtaq ali shami young brother get deccan herald,0.0,0
+Doc 14,india vs australia rohit sharma replace cheteshwar pujara vice captain indian test team time india,0.0,0
+Doc 15,india win aakash chopra questions ms dhoni inclusion icc team decade time,0.0,0
+Doc 17,race time babar azam lengthy net session ahead second test deccan herald,0.0,0
+Doc 18,shikhar dhawan hilarious dance video pet leave kl rahul hardik pandya split watch time,0.0,0
+Doc 19,glenton stuurman rule wanderer test release proteas squad,0.0,0
+Doc 20,bumrah master art pakistani shoaib akhtar times india,0.0,0
+Doc 21,lbw lose comment aussie walk sunil gavaskar times india,0.0,0
+Doc 22,england squad clear covid test set travel sri lanka test series time india,0.0,0
+Doc 23,pcb award babar azam name valuable cricketer year times india,0.0,0
+Doc 24,mushtaq ali karnataka state team gear isolation time india,0.0,0
+Doc 27,williamson nice guy finish deccan herald,0.0,0
+Doc 28,south africa undergo major overhaul domestic structure introduce division league system times india,0.0,0
+Doc 30,garg name uttar pradesh captain bhuvneshwar raina squad time india,0.0,0
+Doc 32,zimbabwe international assignment match limited over series pakistan november country reportedly record positive case death space,0.0,0
+Doc 33,northern knights square central district match super smash super smash action continue new zealand northern knight nk,0.0,0
